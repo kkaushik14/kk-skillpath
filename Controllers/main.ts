@@ -1,0 +1,2 @@
+export { useCoursesController } from "./useCoursesController"
+

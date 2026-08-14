@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "name": "Framer Project",
+            "path": "."
+        }
+    ],
+    "settings": {
+        "typescript.preferences.importModuleSpecifier": "relative",
+        "editor.formatOnSave": true
+    }
+}
+
